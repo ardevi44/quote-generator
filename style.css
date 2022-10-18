@@ -103,7 +103,6 @@ button:active {
   }
 }
 
-/* Media Query: Tablet o smaller */
 @media screen and (max-width: 1000px) {
   .quote-container {
     margin: auto 2rem;
